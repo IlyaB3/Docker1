@@ -4,7 +4,6 @@ HELP.md
 .gradle
 build/
 
-
 ### STS ###
 .apt_generated
 .classpath
@@ -16,7 +15,6 @@ build/
 
 ### IntelliJ IDEA ###
 .idea
-data
 *.iws
 *.iml
 *.ipr
